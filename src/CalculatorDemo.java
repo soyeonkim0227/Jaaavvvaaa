@@ -1,4 +1,4 @@
-package org.opentutorials.javatutorials.object;
+package org.opentutorials.javatutorials.classninstance;
 
 public class CalculatorDemo {
 
